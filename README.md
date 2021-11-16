@@ -1,4 +1,9 @@
 ### Hi there 👋
+![](https://github-readme-stats.vercel.app/api?username=swz-git&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=swz-git&layout=compact&theme=dracula)
+* Currently learning go and svelte
+* Fluent in js, ts, html and css
+* Add me on discord [here](https://discord.com/users/212103205448843265)
 
 <!--
 **swz-git/swz-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
