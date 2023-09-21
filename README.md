@@ -1,12 +1,13 @@
-### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=swz-git&theme=dracula)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=swz-git&layout=compact&theme=dracula)
+### Hej! 👋
+<div style="display:flex">
+  <div><img src="https://github-readme-stats.vercel.app/api?username=swz-git"/></div>
+  <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swz-git&layout=compact"/></div>
+</div>
 
-Very comfortable in js, ts, html and css
 
-Pretty comfortable in go, rust and svelte
+I have experience with: Javascript, Typescript, HTML, CSS, Go and Rust
 
-Discord: [swz#4419](https://discord.com/users/212103205448843265)
+Discord: [swz](https://discord.com/users/212103205448843265) (swz0)
 <!--
 **swz-git/swz-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
