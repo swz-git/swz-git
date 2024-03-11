@@ -1,13 +1,4 @@
 ### Hej! 👋
-<div style="display:flex">
-  <div><img src="https://github-readme-stats.vercel.app/api?username=swz-git"/></div>
-  <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swz-git&layout=compact"/></div>
-</div>
-
-
-I have experience with: Javascript, Typescript, HTML, CSS, Go and Rust
-
-Discord: [swz](https://discord.com/users/212103205448843265) (swz0)
 <!--
 **swz-git/swz-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
